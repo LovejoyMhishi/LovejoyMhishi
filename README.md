@@ -74,13 +74,20 @@ I’m always exploring new ways to bring ideas to life through innovation, preci
 </p>
 
 ---
+ 
+### 🌐 Connect with Me
 
-### 🌐 Connect with Me  
-
-📧 **Email:** [lovemhishi@gmail.com](mailto:lovemhishi@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/lovejoy-mhishi-ba196532a](https://www.linkedin.com/in/lovejoy-mhishi-ba196532a)  
-💻 **GitHub:** [github.com/LovejoyMhishi](https://github.com/LovejoyMhishi)  
-
+<p align="center">
+  <a href="mailto:lovemhishi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/lovejoy-mhishi-ba196532a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/LovejoyMhishi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 ---
 
 ### 👁️ Visitor Count  
