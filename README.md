@@ -24,7 +24,7 @@ I’m always exploring new ways to bring ideas to life through innovation, preci
 
 ### ⚙️ Hardware Design & Electronics:
 ![VHDL](https://img.shields.io/badge/VHDL-8A2BE2?style=for-the-badge)
-![Analog/Digital Electronics](https://img.shields.io/badge/Analog/Digital%20Electronics-555555?style=for-the-badge)
+![Analog & Digital Electronics](https://img.shields.io/badge/Analog/Digital%20Electronics-555555?style=for-the-badge)
 ![Power Electronics](https://img.shields.io/badge/Power%20Electronics-FF7F50?style=for-the-badge)
 
 ### 💻 Design & Simulation Tools:  
