@@ -79,13 +79,15 @@ I’m always exploring new ways to bring ideas to life through innovation, preci
 
 <p align="center">
   <a href="mailto:lovemhishi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lovejoy-mhishi-ba196532a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/LovejoyMhishi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="40" height="40" />
   </a>
 </p>
 
