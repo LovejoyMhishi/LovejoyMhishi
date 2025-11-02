@@ -10,6 +10,7 @@ I’m always exploring new ways to bring ideas to life through innovation, preci
 ---
 
 ## 🧰 Tech Stack & Skills  
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/LovejoyMhishi/sheenbot-manual/main/images/hacking_memory_full_lines.gif" width="460px"/>
 
 ### 👨🏾‍💻 Programming Languages:  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
