@@ -34,6 +34,9 @@ I’m always exploring new ways to bring ideas to life through innovation, preci
 ![Ansys](https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-FF3C00?style=for-the-badge&logo=node-red&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF0?style=for-the-badge&logo=influxdb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 🌍 Web & Data Tools:  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
