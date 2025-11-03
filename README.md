@@ -7,7 +7,6 @@ I thrive at the intersection of **hardware and software**, creating intelligent 
 My interests span from **microcontroller-based development**,  and **PCB design** to **system simulation** and **energy-efficient technologies**.  
 I’m always exploring new ways to bring ideas to life through innovation, precision, and hands-on engineering.  
 
----
 
 ## 🧰 Tech Stack & Skills  
 <img align="right" alt="GIF" src="https://github.com/LovejoyMhishi/sheenbot-manual/blob/main/images/STM32_FLASH.gif" width="450px"/>
@@ -50,22 +49,21 @@ I’m always exploring new ways to bring ideas to life through innovation, preci
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
----
 
-### 🚀 Currently Exploring
+## 🚀 Currently Exploring
 - Advanced python fundamentals
 - IoT protocols (MQTT, LoRa)
 - Advanced PCB design
----
 
-### 🎮 Fun Facts
+
+## 🎮 Fun Facts
 - 💻 I love exploring open-source embedded projects  
 - 🎯 Always chasing efficiency, in both circuits and code  
 - 🎮 Gamer at heart | ⚙️ Engineer by passion | ☕ Fueled by tea and good music
 
----
 
-### 📈 GitHub Stats  
+
+## 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LovejoyMhishi&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -75,21 +73,17 @@ I’m always exploring new ways to bring ideas to life through innovation, preci
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LovejoyMhishi&theme=radical" alt="GitHub Streak" />
 </p>
 
----
  
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p> <a href="mailto:lovemhishi@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/lovejoy-mhishi-ba196532a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/LovejoyMhishi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.instagram.com/lovejoy_mhishi" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> </p>
 
----
 
 ### 👁️ Visitor Count  
 ![Visitor Count](https://komarev.com/ghpvc/?username=LovejoyMhishi&color=blue&style=flat-square)
 
----
 
 ### ✨ Quote  
 
 > “Game is Game.”  
 
----
