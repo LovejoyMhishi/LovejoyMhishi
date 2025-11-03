@@ -78,20 +78,7 @@ I’m always exploring new ways to bring ideas to life through innovation, preci
  
 ### 🌐 Connect with Me
 
-<p align="center">
-  <a href="mailto:lovemhishi@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lovejoy-mhishi-ba196532a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/LovejoyMhishi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="40" height="40" />
-  </a>
-</p>
-
+<p> <a href="mailto:lovemhishi@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/lovejoy-mhishi-ba196532a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/LovejoyMhishi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.instagram.com/lovejoy_mhishi" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> </p>
 ---
 
 ### 👁️ Visitor Count  
