@@ -65,13 +65,9 @@ I’m always exploring new ways to bring ideas to life through innovation, preci
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LovejoyMhishi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LovejoyMhishi&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=0d1117" />
+<a />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LovejoyMhishi&theme=radical" alt="GitHub Streak" />
-</p>
-
  
 ## 🌐 Connect with Me
 
