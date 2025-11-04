@@ -1,7 +1,5 @@
 # 👋🏿 Hi there, I'm Lovejoy Mhishi  
 
-### 🤖 Electrical & Electronics Engineer | Robotic Systems Enthusiast | Embedded Firmware Developer | Gamer  
-
 I’m a passionate **Electrical and Electronics Engineer** specializing in **embedded systems design** and **firmware development**.  
 I thrive at the intersection of **hardware and software**, creating intelligent systems that blend **electronics, control, and code** into seamless solutions.  
 My interests span from **microcontroller-based development**,  and **PCB design** to **system simulation** and **energy-efficient technologies**.  
